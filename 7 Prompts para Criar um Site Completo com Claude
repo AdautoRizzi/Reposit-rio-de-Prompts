@@ -1,0 +1,92 @@
+ 7 Prompts para Criar um Site Completo com Claude
+ Criar um site profissional já custou R$ 5.000, 10.000, às vezes mais. Hoje você consegue montar a estrutura completa — da estratégia ao copy — usando o Claude em algumas horas.
+Esses 7 prompts cobrem tudo que você precisa para criar um site que converte, de verdade.
+ Como usar
+Copie o prompt, substitua os campos entre [colchetes] com as informações do seu negócio e cole no Claude. Simples assim.
+Você pode usar os prompts em sequência para construir o site do zero, ou escolher apenas o que precisar no momento.
+Prompt #1 — Arquiteto de Website
+Você é um estrategista digital que constrói sites que convertem.
+Analise este negócio: [descreva empresa, produto e público].
+
+Crie a arquitetura completa do site:
+— páginas necessárias
+— objetivo de cada página
+— fluxo ideal do usuário
+— estrutura de navegação que maximize conversões
+​
+ Ideal para: definir a estrutura antes de escrever qualquer coisa. Esse é o ponto de partida de todo site profissional.
+Prompt #2 — Auditor de Mercado + Estrutura
+Analise como os melhores sites do nicho [nicho] estruturam suas páginas.
+
+Identifique padrões de design, estrutura e copy que mais convertem.
+Depois crie uma estrutura de site superior baseada nesses insights.
+​
+ Ideal para: entender o que já funciona no seu mercado e criar algo melhor do que a concorrência — sem precisar pesquisar por horas.
+Prompt #3 — Landing Page que Converte
+Crie a estrutura de uma landing page de alta conversão para [produto/serviço].
+
+Baseie-se em princípios de persuasão, psicologia do consumidor e marketing direto.
+Organize a página em seções e explique o objetivo estratégico de cada uma.
+​
+ Ideal para: lançamentos, produtos digitais, serviços, capturas de lead — qualquer página que precisa transformar visitante em cliente.
+Prompt #4 — Site Pensado em SEO
+Crie a estrutura de um site otimizado para SEO e conversão para [empresa/nicho].
+
+Inclua:
+— páginas estratégicas
+— cluster de conteúdo
+— como cada página ajuda a ranquear no Google
+​
+ Ideal para: negócios que querem crescer de forma orgânica no Google, sem depender apenas de tráfego pago.
+Prompt #5 — UX Estratégica
+Imagine que você é um especialista em UX.
+
+Desenhe a estrutura de um site para [negócio] que minimize fricção
+e leve o visitante naturalmente até a conversão.
+​
+ Ideal para: melhorar sites que já existem mas não convertem — muitas vezes o problema não é o texto, é o caminho que o usuário percorre.
+Prompt #6 — Copy Completa do Site
+Escreva todo o texto de um site profissional para [negócio].
+
+Use linguagem clara, direta e focada em benefícios.
+
+Inclua:
+— headline forte
+— storytelling da marca
+— prova social
+— CTAs estratégicos
+​
+ Ideal para: quem já tem a estrutura definida e precisa preencher o site com textos que realmente vendem.
+Prompt #7 — Site de $5.000
+Crie o plano completo de um site que uma agência cobraria $5.000+ para fazer.
+
+Inclua:
+— estratégia
+— estrutura das páginas
+— UX
+— copy
+— elementos visuais recomendados
+​
+ Ideal para: ter uma visão 360° do projeto, como um diretor criativo de agência — antes de colocar a mão na massa.
+ Ordem recomendada de uso
+Etapa
+Prompt
+Objetivo
+1
+#1 — Arquiteto
+Definir a estrutura geral
+2
+#2 — Auditor de Mercado
+Benchmarking da concorrência
+3
+#5 — UX Estratégica
+Projetar a jornada do usuário
+4
+#3 ou #4
+Montar cada página
+5
+#6 — Copy Completa
+Escrever todos os textos
+6
+#7 — Site de $5.000
+Visão final profissional do projeto
